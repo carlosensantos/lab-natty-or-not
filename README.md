@@ -26,7 +26,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Macaco desenvolvendo software no computador
 
 ## 🤖 Tecnologias Utilizadas
-www.craiyon.com
+[www.craiyon.com]
 
 ## 🧐 Processo de Criação
 Prompt
@@ -34,7 +34,7 @@ Prompt
 An monkey in a suit, working on a computer. With many network switches in the background.
 
 ## 🚀 Resultados
-(https://www.craiyon.com/image/s83jeepoRJGI7qQoqNMMMw)
+[https://www.craiyon.com/image/s83jeepoRJGI7qQoqNMMMw]
 
 ### Exemplos e Insigths
 
