@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+ # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
@@ -20,23 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Macaco programando
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Macaco desenvolvendo software no computador
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+www.craiyon.com
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Prompt
+
+An monkey in a suit, working on a computer. With many network switches in the background.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+(https://www.craiyon.com/image/s83jeepoRJGI7qQoqNMMMw)
 
 ### Exemplos e Insigths
 
